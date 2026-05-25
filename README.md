@@ -1,9 +1,3 @@
----
-
-### 2. Backend API Repository (`festiva-matchmaker-api`)
-
-Create a `README.md` file in your Python backend folder and paste this:
-
 ```markdown
 # Festiva Moments | Agentic AI Engine (Backend)
 
