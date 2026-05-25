@@ -1,0 +1,14 @@
+# Environments
+.venv/
+env/
+venv/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Environment Variables (Security)
+.env
+
+# Vector Databases (Optional, if your FAISS index is huge)
+*.index
