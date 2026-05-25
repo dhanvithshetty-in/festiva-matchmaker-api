@@ -1,7 +1,6 @@
-```markdown
 # Festiva Moments | Agentic AI Engine (Backend)
 
-📖 **Live API Docs (Swagger):** [https://festiva-matchmaker-api.onrender.com/docs](https://festiva-matchmaker-api.onrender.com/docs)
+📖 **Live API Docs (Swagger):** https://festiva-matchmaker-api.onrender.com/docs
 
 This is the central "brain" of the Festiva Moments application. It is a cloud-native REST API that utilizes a custom Retrieval-Augmented Generation (RAG) pipeline to match users with luxury event vendors based on high-dimensional semantic search and AI synthesis.
 
