@@ -2,6 +2,9 @@
 
 📖 **Live API Docs (Swagger):** https://festiva-matchmaker-api.onrender.com/docs
 
+<img width="1920" height="1080" alt="ai matchmaker gi" src="https://github.com/user-attachments/assets/a08cf110-57ab-4ff3-9075-c0955f2e4a46" />
+
+
 This is the central "brain" of the Festiva Moments application. It is a cloud-native REST API that utilizes a custom Retrieval-Augmented Generation (RAG) pipeline to match users with luxury event vendors based on high-dimensional semantic search and AI synthesis.
 
 ## 🧠 Architecture & Tech Stack
