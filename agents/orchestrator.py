@@ -13,6 +13,7 @@ class RankingAgent:
         budget: float,
         top_k: int,
         trace: list[str],
+        decor_ratio: float = 0.6,
     ) -> dict[str, list[dict]]:
         trace.append(f"[RankingAgent] Analyzing market segments for budget ₹{budget:,.0f} …")
 
@@ -20,10 +21,12 @@ class RankingAgent:
         
         if "Decorator" in candidates and "Photographer" in candidates:
             budget_allocations = {
-                "Decorator": budget * 0.60,
-                "Photographer": budget * 0.40
+                "Decorator": budget * decor_ratio,
+                "Photographer": budget * (1 - decor_ratio)
             }
-            trace.append("[RankingAgent] Applying weighted allocation: 60% Decor / 40% Photography.")
+            trace.append(
+                f"[RankingAgent] Applying weighted allocation: {decor_ratio*100:.0f}% Decor / {(1-decor_ratio)*100:.0f}% Photography."
+            )
         else:
             n_cats = len(candidates)
             per_cat_budget = budget / max(n_cats, 1)
@@ -51,7 +54,7 @@ class MatchmakerOrchestrator:
         # Initialize our ranking agent wrapper
         self.ranking_agent = RankingAgent(self.ranker)
 
-    def route_and_recommend(self, query: str, city: str, total_budget: float):
+    def route_and_recommend(self, query: str, city: str, total_budget: float, decor_ratio: float = 0.6):
         trace = []
         
         # -------------------------------------------------------------
@@ -72,7 +75,7 @@ class MatchmakerOrchestrator:
         # Agent 2: Ranking (ML Scoring with Business Rules)
         # -------------------------------------------------------------
         trace.append("Ranking Agent: Applying ML scores with industry-weighted budget constraints...")
-        ranked_output = self.ranking_agent.run(candidates, total_budget, top_k=3, trace=trace)
+        ranked_output = self.ranking_agent.run(candidates, total_budget, top_k=3, trace=trace, decor_ratio=decor_ratio)
         
         ranked_decorators = ranked_output.get("Decorator", [])
         ranked_photographers = ranked_output.get("Photographer", [])

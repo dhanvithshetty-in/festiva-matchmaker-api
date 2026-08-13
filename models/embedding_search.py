@@ -18,7 +18,7 @@ class EmbeddingSearcher:
         
         self.index = faiss.IndexFlatIP(embeddings.shape[1])
         self.index.add(embeddings)
-        print("✓ FAISS index built.")
+        print("[ok] FAISS index built.")
         
     def search(self, query: str, city: str, category: str, top_k: int = 10):
         query_vector = self.model.encode([query], convert_to_numpy=True)

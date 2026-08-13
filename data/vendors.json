@@ -1,902 +1,866 @@
 [
     {
         "id": 1,
-        "name": "Traditional Photographer 1",
-        "category": "Photographer",
-        "price": 137774,
-        "rating": 4.1,
-        "city": "Delhi",
-        "description": "Professional traditional photographer in Delhi. Expert in cinematic wedding portraits and event coverage."
+        "name": "Mehr Decor Studio Modern",
+        "category": "Decorator",
+        "price": 224161,
+        "rating": 3.9,
+        "city": "Mumbai",
+        "description": "A modern event decorator in Mumbai, specializing in bespoke stage design, mandap styling and signature floral installations."
     },
     {
         "id": 2,
-        "name": "Minimalist Photographer 2",
-        "category": "Photographer",
-        "price": 76109,
-        "rating": 4.7,
-        "city": "Pune",
-        "description": "Professional minimalist photographer in Pune. Expert in cinematic wedding portraits and event coverage."
+        "name": "Ivy & Ember Events Traditional",
+        "category": "Decorator",
+        "price": 184794,
+        "rating": 4.4,
+        "city": "Mumbai",
+        "description": "A traditional event decorator in Mumbai, specializing in bespoke stage design, mandap styling and signature floral installations."
     },
     {
         "id": 3,
-        "name": "Minimalist Photographer 3",
-        "category": "Photographer",
-        "price": 173953,
-        "rating": 5.0,
-        "city": "Hyderabad",
-        "description": "Professional minimalist photographer in Hyderabad. Expert in cinematic wedding portraits and event coverage."
+        "name": "The Marigold House Vintage",
+        "category": "Decorator",
+        "price": 54561,
+        "rating": 3.8,
+        "city": "Mumbai",
+        "description": "A vintage event decorator in Mumbai, specializing in bespoke stage design, mandap styling and signature floral installations."
     },
     {
         "id": 4,
-        "name": "Vintage Photographer 4",
-        "category": "Photographer",
-        "price": 74260,
-        "rating": 4.5,
-        "city": "Chennai",
-        "description": "Professional vintage photographer in Chennai. Expert in cinematic wedding portraits and event coverage."
+        "name": "Vivaah Decor Co. Fusion",
+        "category": "Decorator",
+        "price": 187815,
+        "rating": 4.1,
+        "city": "Mumbai",
+        "description": "A fusion event decorator in Mumbai, specializing in bespoke stage design, mandap styling and signature floral installations."
     },
     {
         "id": 5,
-        "name": "Modern Photographer 5",
-        "category": "Photographer",
-        "price": 150582,
-        "rating": 3.6,
-        "city": "Hyderabad",
-        "description": "Professional modern photographer in Hyderabad. Expert in cinematic wedding portraits and event coverage."
+        "name": "Aarav & Blossom Studio Royal",
+        "category": "Decorator",
+        "price": 217700,
+        "rating": 4.4,
+        "city": "Mumbai",
+        "description": "A royal event decorator in Mumbai, specializing in bespoke stage design, mandap styling and signature floral installations."
     },
     {
         "id": 6,
-        "name": "Vintage Photographer 6",
-        "category": "Photographer",
-        "price": 63671,
-        "rating": 4.3,
-        "city": "Pune",
-        "description": "Professional vintage photographer in Pune. Expert in cinematic wedding portraits and event coverage."
+        "name": "The Pavilion Studio Boho",
+        "category": "Decorator",
+        "price": 139974,
+        "rating": 4.6,
+        "city": "Mumbai",
+        "description": "A boho event decorator in Mumbai, specializing in bespoke stage design, mandap styling and signature floral installations."
     },
     {
         "id": 7,
-        "name": "Minimalist Photographer 7",
+        "name": "Noor Photography Minimalist",
         "category": "Photographer",
-        "price": 116038,
-        "rating": 3.7,
-        "city": "Chennai",
-        "description": "Professional minimalist photographer in Chennai. Expert in cinematic wedding portraits and event coverage."
+        "price": 92842,
+        "rating": 4.3,
+        "city": "Mumbai",
+        "description": "Professional minimalist photographer in Mumbai, expert in cinematic wedding portraits, candid storytelling and full event coverage."
     },
     {
         "id": 8,
-        "name": "Minimalist Photographer 8",
+        "name": "Golden Hour Films Contemporary",
         "category": "Photographer",
-        "price": 34576,
-        "rating": 5.0,
-        "city": "Chennai",
-        "description": "Professional minimalist photographer in Chennai. Expert in cinematic wedding portraits and event coverage."
+        "price": 108236,
+        "rating": 4.0,
+        "city": "Mumbai",
+        "description": "Professional contemporary photographer in Mumbai, expert in cinematic wedding portraits, candid storytelling and full event coverage."
     },
     {
         "id": 9,
-        "name": "Luxury Photographer 9",
+        "name": "Frames By Ananya Vintage",
         "category": "Photographer",
-        "price": 141505,
-        "rating": 4.5,
-        "city": "Delhi",
-        "description": "Professional luxury photographer in Delhi. Expert in cinematic wedding portraits and event coverage."
+        "price": 45353,
+        "rating": 3.9,
+        "city": "Mumbai",
+        "description": "Professional vintage photographer in Mumbai, expert in cinematic wedding portraits, candid storytelling and full event coverage."
     },
     {
         "id": 10,
-        "name": "Luxury Photographer 10",
+        "name": "The Aperture Atelier Royal",
         "category": "Photographer",
-        "price": 136488,
-        "rating": 4.5,
-        "city": "Hyderabad",
-        "description": "Professional luxury photographer in Hyderabad. Expert in cinematic wedding portraits and event coverage."
+        "price": 178263,
+        "rating": 4.7,
+        "city": "Mumbai",
+        "description": "Professional royal photographer in Mumbai, expert in cinematic wedding portraits, candid storytelling and full event coverage."
     },
     {
         "id": 11,
-        "name": "Modern Decorator 11",
-        "category": "Decorator",
-        "price": 51783,
-        "rating": 4.4,
-        "city": "Hyderabad",
-        "description": "A modern event decorator in Hyderabad, specializing in beautiful stage setups and floral arrangements."
+        "name": "Candid Chronicles Traditional",
+        "category": "Photographer",
+        "price": 140435,
+        "rating": 4.7,
+        "city": "Mumbai",
+        "description": "Professional traditional photographer in Mumbai, expert in cinematic wedding portraits, candid storytelling and full event coverage."
     },
     {
         "id": 12,
-        "name": "Minimalist Photographer 12",
+        "name": "Pinhole & Beyond Modern",
         "category": "Photographer",
-        "price": 164547,
-        "rating": 3.5,
-        "city": "Hyderabad",
-        "description": "Professional minimalist photographer in Hyderabad. Expert in cinematic wedding portraits and event coverage."
+        "price": 119230,
+        "rating": 3.9,
+        "city": "Mumbai",
+        "description": "Professional modern photographer in Mumbai, expert in cinematic wedding portraits, candid storytelling and full event coverage."
     },
     {
         "id": 13,
-        "name": "Luxury Photographer 13",
-        "category": "Photographer",
-        "price": 175366,
-        "rating": 4.3,
-        "city": "Mumbai",
-        "description": "Professional luxury photographer in Mumbai. Expert in cinematic wedding portraits and event coverage."
+        "name": "Ivy & Ember Events Modern",
+        "category": "Decorator",
+        "price": 181349,
+        "rating": 4.7,
+        "city": "Delhi",
+        "description": "A modern event decorator in Delhi, specializing in bespoke stage design, mandap styling and signature floral installations."
     },
     {
         "id": 14,
-        "name": "Vintage Photographer 14",
-        "category": "Photographer",
-        "price": 142235,
-        "rating": 4.5,
+        "name": "Vivaah Decor Co. Outdoor",
+        "category": "Decorator",
+        "price": 42012,
+        "rating": 4.6,
         "city": "Delhi",
-        "description": "Professional vintage photographer in Delhi. Expert in cinematic wedding portraits and event coverage."
+        "description": "A outdoor event decorator in Delhi, specializing in bespoke stage design, mandap styling and signature floral installations."
     },
     {
         "id": 15,
-        "name": "Modern Photographer 15",
-        "category": "Photographer",
-        "price": 105221,
-        "rating": 4.2,
-        "city": "Hyderabad",
-        "description": "Professional modern photographer in Hyderabad. Expert in cinematic wedding portraits and event coverage."
+        "name": "The Pavilion Studio Vintage",
+        "category": "Decorator",
+        "price": 105861,
+        "rating": 4.1,
+        "city": "Delhi",
+        "description": "A vintage event decorator in Delhi, specializing in bespoke stage design, mandap styling and signature floral installations."
     },
     {
         "id": 16,
-        "name": "Traditional Decorator 16",
+        "name": "The Bloom Craft Royal",
         "category": "Decorator",
-        "price": 227422,
-        "rating": 4.6,
-        "city": "Hyderabad",
-        "description": "A traditional event decorator in Hyderabad, specializing in beautiful stage setups and floral arrangements."
+        "price": 56476,
+        "rating": 4.7,
+        "city": "Delhi",
+        "description": "A royal event decorator in Delhi, specializing in bespoke stage design, mandap styling and signature floral installations."
     },
     {
         "id": 17,
-        "name": "Traditional Photographer 17",
-        "category": "Photographer",
-        "price": 85026,
+        "name": "The Marigold House Boho",
+        "category": "Decorator",
+        "price": 196640,
         "rating": 4.1,
-        "city": "Bangalore",
-        "description": "Professional traditional photographer in Bangalore. Expert in cinematic wedding portraits and event coverage."
+        "city": "Delhi",
+        "description": "A boho event decorator in Delhi, specializing in bespoke stage design, mandap styling and signature floral installations."
     },
     {
         "id": 18,
-        "name": "Traditional Photographer 18",
-        "category": "Photographer",
-        "price": 48250,
-        "rating": 4.0,
-        "city": "Bangalore",
-        "description": "Professional traditional photographer in Bangalore. Expert in cinematic wedding portraits and event coverage."
+        "name": "The Tapestry Co. Contemporary",
+        "category": "Decorator",
+        "price": 127040,
+        "rating": 4.2,
+        "city": "Delhi",
+        "description": "A contemporary event decorator in Delhi, specializing in bespoke stage design, mandap styling and signature floral installations."
     },
     {
         "id": 19,
-        "name": "Minimalist Decorator 19",
-        "category": "Decorator",
-        "price": 204949,
-        "rating": 3.7,
-        "city": "Pune",
-        "description": "A minimalist event decorator in Pune, specializing in beautiful stage setups and floral arrangements."
+        "name": "Everest Exposures Boho",
+        "category": "Photographer",
+        "price": 160021,
+        "rating": 4.5,
+        "city": "Delhi",
+        "description": "Professional boho photographer in Delhi, expert in cinematic wedding portraits, candid storytelling and full event coverage."
     },
     {
         "id": 20,
-        "name": "Vintage Photographer 20",
+        "name": "Noor Photography Minimalist",
         "category": "Photographer",
-        "price": 57642,
-        "rating": 4.8,
-        "city": "Hyderabad",
-        "description": "Professional vintage photographer in Hyderabad. Expert in cinematic wedding portraits and event coverage."
+        "price": 141178,
+        "rating": 4.1,
+        "city": "Delhi",
+        "description": "Professional minimalist photographer in Delhi, expert in cinematic wedding portraits, candid storytelling and full event coverage."
     },
     {
         "id": 21,
-        "name": "Minimalist Decorator 21",
-        "category": "Decorator",
-        "price": 75827,
-        "rating": 4.6,
-        "city": "Bangalore",
-        "description": "A minimalist event decorator in Bangalore, specializing in beautiful stage setups and floral arrangements."
+        "name": "Lumen Frames Vintage",
+        "category": "Photographer",
+        "price": 166001,
+        "rating": 4.1,
+        "city": "Delhi",
+        "description": "Professional vintage photographer in Delhi, expert in cinematic wedding portraits, candid storytelling and full event coverage."
     },
     {
         "id": 22,
-        "name": "Traditional Decorator 22",
-        "category": "Decorator",
-        "price": 97659,
+        "name": "Lens & Light Co. Fusion",
+        "category": "Photographer",
+        "price": 34663,
         "rating": 4.6,
-        "city": "Hyderabad",
-        "description": "A traditional event decorator in Hyderabad, specializing in beautiful stage setups and floral arrangements."
+        "city": "Delhi",
+        "description": "Professional fusion photographer in Delhi, expert in cinematic wedding portraits, candid storytelling and full event coverage."
     },
     {
         "id": 23,
-        "name": "Vintage Photographer 23",
+        "name": "Lens & Light Co. Royal",
         "category": "Photographer",
-        "price": 76326,
-        "rating": 4.3,
-        "city": "Mumbai",
-        "description": "Professional vintage photographer in Mumbai. Expert in cinematic wedding portraits and event coverage."
+        "price": 102694,
+        "rating": 4.7,
+        "city": "Delhi",
+        "description": "Professional royal photographer in Delhi, expert in cinematic wedding portraits, candid storytelling and full event coverage."
     },
     {
         "id": 24,
-        "name": "Minimalist Photographer 24",
+        "name": "Lumen Frames Traditional",
         "category": "Photographer",
-        "price": 64678,
-        "rating": 4.2,
-        "city": "Chennai",
-        "description": "Professional minimalist photographer in Chennai. Expert in cinematic wedding portraits and event coverage."
+        "price": 75307,
+        "rating": 4.1,
+        "city": "Delhi",
+        "description": "Professional traditional photographer in Delhi, expert in cinematic wedding portraits, candid storytelling and full event coverage."
     },
     {
         "id": 25,
-        "name": "Luxury Decorator 25",
+        "name": "Ivy & Ember Events Fusion",
         "category": "Decorator",
-        "price": 93702,
-        "rating": 4.0,
+        "price": 150285,
+        "rating": 4.8,
         "city": "Bangalore",
-        "description": "A luxury event decorator in Bangalore, specializing in beautiful stage setups and floral arrangements."
+        "description": "A fusion event decorator in Bangalore, specializing in bespoke stage design, mandap styling and signature floral installations."
     },
     {
         "id": 26,
-        "name": "Luxury Decorator 26",
+        "name": "Saffron Petals Boho",
         "category": "Decorator",
-        "price": 150286,
-        "rating": 4.6,
-        "city": "Delhi",
-        "description": "A luxury event decorator in Delhi, specializing in beautiful stage setups and floral arrangements."
+        "price": 94651,
+        "rating": 4.1,
+        "city": "Bangalore",
+        "description": "A boho event decorator in Bangalore, specializing in bespoke stage design, mandap styling and signature floral installations."
     },
     {
         "id": 27,
-        "name": "Minimalist Photographer 27",
-        "category": "Photographer",
-        "price": 129348,
-        "rating": 4.2,
+        "name": "Mehr Decor Studio Minimalist",
+        "category": "Decorator",
+        "price": 98876,
+        "rating": 4.4,
         "city": "Bangalore",
-        "description": "Professional minimalist photographer in Bangalore. Expert in cinematic wedding portraits and event coverage."
+        "description": "A minimalist event decorator in Bangalore, specializing in bespoke stage design, mandap styling and signature floral installations."
     },
     {
         "id": 28,
-        "name": "Luxury Photographer 28",
-        "category": "Photographer",
-        "price": 116716,
-        "rating": 4.0,
-        "city": "Hyderabad",
-        "description": "Professional luxury photographer in Hyderabad. Expert in cinematic wedding portraits and event coverage."
+        "name": "Mehr Decor Studio Outdoor",
+        "category": "Decorator",
+        "price": 182969,
+        "rating": 4.4,
+        "city": "Bangalore",
+        "description": "A outdoor event decorator in Bangalore, specializing in bespoke stage design, mandap styling and signature floral installations."
     },
     {
         "id": 29,
-        "name": "Vintage Photographer 29",
-        "category": "Photographer",
-        "price": 133780,
-        "rating": 4.6,
-        "city": "Hyderabad",
-        "description": "Professional vintage photographer in Hyderabad. Expert in cinematic wedding portraits and event coverage."
+        "name": "The Marigold House Contemporary",
+        "category": "Decorator",
+        "price": 66262,
+        "rating": 4.2,
+        "city": "Bangalore",
+        "description": "A contemporary event decorator in Bangalore, specializing in bespoke stage design, mandap styling and signature floral installations."
     },
     {
         "id": 30,
-        "name": "Minimalist Photographer 30",
-        "category": "Photographer",
-        "price": 132696,
-        "rating": 3.6,
-        "city": "Delhi",
-        "description": "Professional minimalist photographer in Delhi. Expert in cinematic wedding portraits and event coverage."
+        "name": "Crimson Choreography Royal",
+        "category": "Decorator",
+        "price": 228123,
+        "rating": 4.3,
+        "city": "Bangalore",
+        "description": "A royal event decorator in Bangalore, specializing in bespoke stage design, mandap styling and signature floral installations."
     },
     {
         "id": 31,
-        "name": "Luxury Photographer 31",
+        "name": "Everest Exposures Traditional",
         "category": "Photographer",
-        "price": 109595,
-        "rating": 3.7,
-        "city": "Hyderabad",
-        "description": "Professional luxury photographer in Hyderabad. Expert in cinematic wedding portraits and event coverage."
+        "price": 120039,
+        "rating": 3.9,
+        "city": "Bangalore",
+        "description": "Professional traditional photographer in Bangalore, expert in cinematic wedding portraits, candid storytelling and full event coverage."
     },
     {
         "id": 32,
-        "name": "Modern Photographer 32",
+        "name": "Everest Exposures Modern",
         "category": "Photographer",
-        "price": 150644,
-        "rating": 3.6,
-        "city": "Delhi",
-        "description": "Professional modern photographer in Delhi. Expert in cinematic wedding portraits and event coverage."
+        "price": 158704,
+        "rating": 4.9,
+        "city": "Bangalore",
+        "description": "Professional modern photographer in Bangalore, expert in cinematic wedding portraits, candid storytelling and full event coverage."
     },
     {
         "id": 33,
-        "name": "Minimalist Photographer 33",
+        "name": "Candid Chronicles Luxury",
         "category": "Photographer",
-        "price": 106626,
+        "price": 23009,
         "rating": 4.9,
-        "city": "Mumbai",
-        "description": "Professional minimalist photographer in Mumbai. Expert in cinematic wedding portraits and event coverage."
+        "city": "Bangalore",
+        "description": "Professional luxury photographer in Bangalore, expert in cinematic wedding portraits, candid storytelling and full event coverage."
     },
     {
         "id": 34,
-        "name": "Vintage Decorator 34",
-        "category": "Decorator",
-        "price": 209853,
+        "name": "The Story Gram Boho",
+        "category": "Photographer",
+        "price": 160763,
         "rating": 4.6,
-        "city": "Pune",
-        "description": "A vintage event decorator in Pune, specializing in beautiful stage setups and floral arrangements."
+        "city": "Bangalore",
+        "description": "Professional boho photographer in Bangalore, expert in cinematic wedding portraits, candid storytelling and full event coverage."
     },
     {
         "id": 35,
-        "name": "Modern Decorator 35",
-        "category": "Decorator",
-        "price": 208869,
-        "rating": 4.3,
-        "city": "Pune",
-        "description": "A modern event decorator in Pune, specializing in beautiful stage setups and floral arrangements."
+        "name": "Focus & Feather Outdoor",
+        "category": "Photographer",
+        "price": 109174,
+        "rating": 4.1,
+        "city": "Bangalore",
+        "description": "Professional outdoor photographer in Bangalore, expert in cinematic wedding portraits, candid storytelling and full event coverage."
     },
     {
         "id": 36,
-        "name": "Modern Photographer 36",
+        "name": "Frames By Ananya Minimalist",
         "category": "Photographer",
-        "price": 163583,
+        "price": 61460,
         "rating": 4.1,
-        "city": "Pune",
-        "description": "Professional modern photographer in Pune. Expert in cinematic wedding portraits and event coverage."
+        "city": "Bangalore",
+        "description": "Professional minimalist photographer in Bangalore, expert in cinematic wedding portraits, candid storytelling and full event coverage."
     },
     {
         "id": 37,
-        "name": "Traditional Decorator 37",
+        "name": "Ivy & Ember Events Contemporary",
         "category": "Decorator",
-        "price": 75134,
-        "rating": 3.6,
-        "city": "Hyderabad",
-        "description": "A traditional event decorator in Hyderabad, specializing in beautiful stage setups and floral arrangements."
+        "price": 193918,
+        "rating": 3.9,
+        "city": "Goa",
+        "description": "A contemporary event decorator in Goa, specializing in bespoke stage design, mandap styling and signature floral installations."
     },
     {
         "id": 38,
-        "name": "Traditional Photographer 38",
-        "category": "Photographer",
-        "price": 22217,
-        "rating": 3.6,
-        "city": "Delhi",
-        "description": "Professional traditional photographer in Delhi. Expert in cinematic wedding portraits and event coverage."
+        "name": "Luxury Loom Events Traditional",
+        "category": "Decorator",
+        "price": 163080,
+        "rating": 4.7,
+        "city": "Goa",
+        "description": "A traditional event decorator in Goa, specializing in bespoke stage design, mandap styling and signature floral installations."
     },
     {
         "id": 39,
-        "name": "Luxury Decorator 39",
+        "name": "Silk & Stem Vintage",
         "category": "Decorator",
-        "price": 152833,
-        "rating": 4.3,
-        "city": "Chennai",
-        "description": "A luxury event decorator in Chennai, specializing in beautiful stage setups and floral arrangements."
+        "price": 128019,
+        "rating": 4.0,
+        "city": "Goa",
+        "description": "A vintage event decorator in Goa, specializing in bespoke stage design, mandap styling and signature floral installations."
     },
     {
         "id": 40,
-        "name": "Vintage Decorator 40",
+        "name": "Golden Anthurium Fusion",
         "category": "Decorator",
-        "price": 189591,
-        "rating": 4.8,
-        "city": "Chennai",
-        "description": "A vintage event decorator in Chennai, specializing in beautiful stage setups and floral arrangements."
+        "price": 234112,
+        "rating": 4.0,
+        "city": "Goa",
+        "description": "A fusion event decorator in Goa, specializing in bespoke stage design, mandap styling and signature floral installations."
     },
     {
         "id": 41,
-        "name": "Vintage Decorator 41",
+        "name": "Ivy & Ember Events Modern",
         "category": "Decorator",
-        "price": 133547,
-        "rating": 3.8,
-        "city": "Chennai",
-        "description": "A vintage event decorator in Chennai, specializing in beautiful stage setups and floral arrangements."
+        "price": 30149,
+        "rating": 4.4,
+        "city": "Goa",
+        "description": "A modern event decorator in Goa, specializing in bespoke stage design, mandap styling and signature floral installations."
     },
     {
         "id": 42,
-        "name": "Modern Decorator 42",
+        "name": "Silk & Stem Royal",
         "category": "Decorator",
-        "price": 153177,
-        "rating": 4.0,
-        "city": "Delhi",
-        "description": "A modern event decorator in Delhi, specializing in beautiful stage setups and floral arrangements."
+        "price": 35105,
+        "rating": 4.2,
+        "city": "Goa",
+        "description": "A royal event decorator in Goa, specializing in bespoke stage design, mandap styling and signature floral installations."
     },
     {
         "id": 43,
-        "name": "Minimalist Decorator 43",
-        "category": "Decorator",
-        "price": 135333,
-        "rating": 4.6,
-        "city": "Delhi",
-        "description": "A minimalist event decorator in Delhi, specializing in beautiful stage setups and floral arrangements."
+        "name": "The Framesmith Modern",
+        "category": "Photographer",
+        "price": 40645,
+        "rating": 4.4,
+        "city": "Goa",
+        "description": "Professional modern photographer in Goa, expert in cinematic wedding portraits, candid storytelling and full event coverage."
     },
     {
         "id": 44,
-        "name": "Modern Decorator 44",
-        "category": "Decorator",
-        "price": 234419,
-        "rating": 4.0,
-        "city": "Chennai",
-        "description": "A modern event decorator in Chennai, specializing in beautiful stage setups and floral arrangements."
+        "name": "Frames By Ananya Boho",
+        "category": "Photographer",
+        "price": 38143,
+        "rating": 4.6,
+        "city": "Goa",
+        "description": "Professional boho photographer in Goa, expert in cinematic wedding portraits, candid storytelling and full event coverage."
     },
     {
         "id": 45,
-        "name": "Vintage Decorator 45",
-        "category": "Decorator",
-        "price": 233137,
-        "rating": 4.0,
-        "city": "Bangalore",
-        "description": "A vintage event decorator in Bangalore, specializing in beautiful stage setups and floral arrangements."
+        "name": "Focus & Feather Vintage",
+        "category": "Photographer",
+        "price": 52967,
+        "rating": 4.4,
+        "city": "Goa",
+        "description": "Professional vintage photographer in Goa, expert in cinematic wedding portraits, candid storytelling and full event coverage."
     },
     {
         "id": 46,
-        "name": "Vintage Decorator 46",
-        "category": "Decorator",
-        "price": 174646,
-        "rating": 4.6,
-        "city": "Mumbai",
-        "description": "A vintage event decorator in Mumbai, specializing in beautiful stage setups and floral arrangements."
+        "name": "Golden Hour Films Fusion",
+        "category": "Photographer",
+        "price": 164127,
+        "rating": 4.5,
+        "city": "Goa",
+        "description": "Professional fusion photographer in Goa, expert in cinematic wedding portraits, candid storytelling and full event coverage."
     },
     {
         "id": 47,
-        "name": "Traditional Decorator 47",
-        "category": "Decorator",
-        "price": 38712,
-        "rating": 3.9,
-        "city": "Hyderabad",
-        "description": "A traditional event decorator in Hyderabad, specializing in beautiful stage setups and floral arrangements."
+        "name": "Golden Hour Films Traditional",
+        "category": "Photographer",
+        "price": 179014,
+        "rating": 4.1,
+        "city": "Goa",
+        "description": "Professional traditional photographer in Goa, expert in cinematic wedding portraits, candid storytelling and full event coverage."
     },
     {
         "id": 48,
-        "name": "Luxury Photographer 48",
+        "name": "Lumen Frames Royal",
         "category": "Photographer",
-        "price": 56551,
-        "rating": 4.5,
-        "city": "Mumbai",
-        "description": "Professional luxury photographer in Mumbai. Expert in cinematic wedding portraits and event coverage."
+        "price": 161373,
+        "rating": 4.9,
+        "city": "Goa",
+        "description": "Professional royal photographer in Goa, expert in cinematic wedding portraits, candid storytelling and full event coverage."
     },
     {
         "id": 49,
-        "name": "Luxury Decorator 49",
+        "name": "Zest Florals Minimalist",
         "category": "Decorator",
-        "price": 101056,
-        "rating": 5.0,
-        "city": "Pune",
-        "description": "A luxury event decorator in Pune, specializing in beautiful stage setups and floral arrangements."
+        "price": 148354,
+        "rating": 4.8,
+        "city": "Jaipur",
+        "description": "A minimalist event decorator in Jaipur, specializing in bespoke stage design, mandap styling and signature floral installations."
     },
     {
         "id": 50,
-        "name": "Modern Photographer 50",
-        "category": "Photographer",
-        "price": 40677,
-        "rating": 3.6,
-        "city": "Chennai",
-        "description": "Professional modern photographer in Chennai. Expert in cinematic wedding portraits and event coverage."
+        "name": "The Bloom Craft Vintage",
+        "category": "Decorator",
+        "price": 46784,
+        "rating": 4.1,
+        "city": "Jaipur",
+        "description": "A vintage event decorator in Jaipur, specializing in bespoke stage design, mandap styling and signature floral installations."
     },
     {
         "id": 51,
-        "name": "Modern Decorator 51",
+        "name": "Rosewood Ambiance Royal",
         "category": "Decorator",
-        "price": 228618,
-        "rating": 4.9,
-        "city": "Mumbai",
-        "description": "A modern event decorator in Mumbai, specializing in beautiful stage setups and floral arrangements."
+        "price": 175207,
+        "rating": 3.8,
+        "city": "Jaipur",
+        "description": "A royal event decorator in Jaipur, specializing in bespoke stage design, mandap styling and signature floral installations."
     },
     {
         "id": 52,
-        "name": "Modern Photographer 52",
-        "category": "Photographer",
-        "price": 57165,
-        "rating": 4.9,
-        "city": "Pune",
-        "description": "Professional modern photographer in Pune. Expert in cinematic wedding portraits and event coverage."
+        "name": "Vivaah Decor Co. Boho",
+        "category": "Decorator",
+        "price": 31885,
+        "rating": 4.4,
+        "city": "Jaipur",
+        "description": "A boho event decorator in Jaipur, specializing in bespoke stage design, mandap styling and signature floral installations."
     },
     {
         "id": 53,
-        "name": "Luxury Decorator 53",
+        "name": "The Bloom Craft Contemporary",
         "category": "Decorator",
-        "price": 199747,
-        "rating": 4.1,
-        "city": "Delhi",
-        "description": "A luxury event decorator in Delhi, specializing in beautiful stage setups and floral arrangements."
+        "price": 45433,
+        "rating": 4.6,
+        "city": "Jaipur",
+        "description": "A contemporary event decorator in Jaipur, specializing in bespoke stage design, mandap styling and signature floral installations."
     },
     {
         "id": 54,
-        "name": "Luxury Decorator 54",
+        "name": "Vivaah Decor Co. Luxury",
         "category": "Decorator",
-        "price": 125484,
+        "price": 38234,
         "rating": 3.9,
-        "city": "Hyderabad",
-        "description": "A luxury event decorator in Hyderabad, specializing in beautiful stage setups and floral arrangements."
+        "city": "Jaipur",
+        "description": "A luxury event decorator in Jaipur, specializing in bespoke stage design, mandap styling and signature floral installations."
     },
     {
         "id": 55,
-        "name": "Luxury Decorator 55",
-        "category": "Decorator",
-        "price": 54683,
-        "rating": 4.3,
-        "city": "Chennai",
-        "description": "A luxury event decorator in Chennai, specializing in beautiful stage setups and floral arrangements."
+        "name": "Lens & Light Co. Boho",
+        "category": "Photographer",
+        "price": 169695,
+        "rating": 4.4,
+        "city": "Jaipur",
+        "description": "Professional boho photographer in Jaipur, expert in cinematic wedding portraits, candid storytelling and full event coverage."
     },
     {
         "id": 56,
-        "name": "Vintage Decorator 56",
-        "category": "Decorator",
-        "price": 191345,
-        "rating": 4.4,
-        "city": "Chennai",
-        "description": "A vintage event decorator in Chennai, specializing in beautiful stage setups and floral arrangements."
+        "name": "Everest Exposures Modern",
+        "category": "Photographer",
+        "price": 143987,
+        "rating": 4.3,
+        "city": "Jaipur",
+        "description": "Professional modern photographer in Jaipur, expert in cinematic wedding portraits, candid storytelling and full event coverage."
     },
     {
         "id": 57,
-        "name": "Luxury Decorator 57",
-        "category": "Decorator",
-        "price": 116713,
-        "rating": 3.9,
-        "city": "Mumbai",
-        "description": "A luxury event decorator in Mumbai, specializing in beautiful stage setups and floral arrangements."
+        "name": "Focus & Feather Minimalist",
+        "category": "Photographer",
+        "price": 44726,
+        "rating": 4.2,
+        "city": "Jaipur",
+        "description": "Professional minimalist photographer in Jaipur, expert in cinematic wedding portraits, candid storytelling and full event coverage."
     },
     {
         "id": 58,
-        "name": "Minimalist Decorator 58",
-        "category": "Decorator",
-        "price": 101599,
-        "rating": 3.8,
-        "city": "Delhi",
-        "description": "A minimalist event decorator in Delhi, specializing in beautiful stage setups and floral arrangements."
+        "name": "Frames By Ananya Luxury",
+        "category": "Photographer",
+        "price": 112876,
+        "rating": 4.5,
+        "city": "Jaipur",
+        "description": "Professional luxury photographer in Jaipur, expert in cinematic wedding portraits, candid storytelling and full event coverage."
     },
     {
         "id": 59,
-        "name": "Traditional Decorator 59",
-        "category": "Decorator",
-        "price": 161758,
-        "rating": 4.1,
-        "city": "Delhi",
-        "description": "A traditional event decorator in Delhi, specializing in beautiful stage setups and floral arrangements."
+        "name": "Lumen Frames Fusion",
+        "category": "Photographer",
+        "price": 34200,
+        "rating": 4.3,
+        "city": "Jaipur",
+        "description": "Professional fusion photographer in Jaipur, expert in cinematic wedding portraits, candid storytelling and full event coverage."
     },
     {
         "id": 60,
-        "name": "Traditional Decorator 60",
-        "category": "Decorator",
-        "price": 216185,
-        "rating": 4.4,
-        "city": "Pune",
-        "description": "A traditional event decorator in Pune, specializing in beautiful stage setups and floral arrangements."
+        "name": "The Story Gram Contemporary",
+        "category": "Photographer",
+        "price": 45799,
+        "rating": 4.5,
+        "city": "Jaipur",
+        "description": "Professional contemporary photographer in Jaipur, expert in cinematic wedding portraits, candid storytelling and full event coverage."
     },
     {
         "id": 61,
-        "name": "Luxury Photographer 61",
-        "category": "Photographer",
-        "price": 27199,
-        "rating": 5.0,
-        "city": "Mumbai",
-        "description": "Professional luxury photographer in Mumbai. Expert in cinematic wedding portraits and event coverage."
+        "name": "Vivaah Decor Co. Traditional",
+        "category": "Decorator",
+        "price": 147601,
+        "rating": 4.0,
+        "city": "Hyderabad",
+        "description": "A traditional event decorator in Hyderabad, specializing in bespoke stage design, mandap styling and signature floral installations."
     },
     {
         "id": 62,
-        "name": "Traditional Photographer 62",
-        "category": "Photographer",
-        "price": 95292,
-        "rating": 3.7,
-        "city": "Bangalore",
-        "description": "Professional traditional photographer in Bangalore. Expert in cinematic wedding portraits and event coverage."
+        "name": "Saffron Petals Royal",
+        "category": "Decorator",
+        "price": 103018,
+        "rating": 4.3,
+        "city": "Hyderabad",
+        "description": "A royal event decorator in Hyderabad, specializing in bespoke stage design, mandap styling and signature floral installations."
     },
     {
         "id": 63,
-        "name": "Luxury Photographer 63",
-        "category": "Photographer",
-        "price": 55221,
-        "rating": 3.6,
+        "name": "Zest Florals Boho",
+        "category": "Decorator",
+        "price": 49761,
+        "rating": 4.1,
         "city": "Hyderabad",
-        "description": "Professional luxury photographer in Hyderabad. Expert in cinematic wedding portraits and event coverage."
+        "description": "A boho event decorator in Hyderabad, specializing in bespoke stage design, mandap styling and signature floral installations."
     },
     {
         "id": 64,
-        "name": "Modern Decorator 64",
+        "name": "Zest Florals Outdoor",
         "category": "Decorator",
-        "price": 234188,
-        "rating": 3.7,
-        "city": "Mumbai",
-        "description": "A modern event decorator in Mumbai, specializing in beautiful stage setups and floral arrangements."
+        "price": 174264,
+        "rating": 4.7,
+        "city": "Hyderabad",
+        "description": "A outdoor event decorator in Hyderabad, specializing in bespoke stage design, mandap styling and signature floral installations."
     },
     {
         "id": 65,
-        "name": "Minimalist Photographer 65",
-        "category": "Photographer",
-        "price": 96727,
-        "rating": 4.3,
-        "city": "Bangalore",
-        "description": "Professional minimalist photographer in Bangalore. Expert in cinematic wedding portraits and event coverage."
+        "name": "The Bloom Craft Fusion",
+        "category": "Decorator",
+        "price": 171711,
+        "rating": 3.9,
+        "city": "Hyderabad",
+        "description": "A fusion event decorator in Hyderabad, specializing in bespoke stage design, mandap styling and signature floral installations."
     },
     {
         "id": 66,
-        "name": "Minimalist Photographer 66",
-        "category": "Photographer",
-        "price": 174925,
-        "rating": 4.8,
+        "name": "The Tapestry Co. Modern",
+        "category": "Decorator",
+        "price": 54448,
+        "rating": 3.8,
         "city": "Hyderabad",
-        "description": "Professional minimalist photographer in Hyderabad. Expert in cinematic wedding portraits and event coverage."
+        "description": "A modern event decorator in Hyderabad, specializing in bespoke stage design, mandap styling and signature floral installations."
     },
     {
         "id": 67,
-        "name": "Modern Decorator 67",
-        "category": "Decorator",
-        "price": 158148,
-        "rating": 4.5,
-        "city": "Chennai",
-        "description": "A modern event decorator in Chennai, specializing in beautiful stage setups and floral arrangements."
+        "name": "Timeless Frames Studio Minimalist",
+        "category": "Photographer",
+        "price": 35370,
+        "rating": 4.2,
+        "city": "Hyderabad",
+        "description": "Professional minimalist photographer in Hyderabad, expert in cinematic wedding portraits, candid storytelling and full event coverage."
     },
     {
         "id": 68,
-        "name": "Traditional Photographer 68",
+        "name": "Golden Hour Films Luxury",
         "category": "Photographer",
-        "price": 22789,
-        "rating": 3.9,
-        "city": "Chennai",
-        "description": "Professional traditional photographer in Chennai. Expert in cinematic wedding portraits and event coverage."
+        "price": 122346,
+        "rating": 4.2,
+        "city": "Hyderabad",
+        "description": "Professional luxury photographer in Hyderabad, expert in cinematic wedding portraits, candid storytelling and full event coverage."
     },
     {
         "id": 69,
-        "name": "Traditional Photographer 69",
+        "name": "Candid Chronicles Royal",
         "category": "Photographer",
-        "price": 44448,
-        "rating": 4.0,
-        "city": "Mumbai",
-        "description": "Professional traditional photographer in Mumbai. Expert in cinematic wedding portraits and event coverage."
+        "price": 139277,
+        "rating": 4.8,
+        "city": "Hyderabad",
+        "description": "Professional royal photographer in Hyderabad, expert in cinematic wedding portraits, candid storytelling and full event coverage."
     },
     {
         "id": 70,
-        "name": "Luxury Photographer 70",
+        "name": "Candid Chronicles Fusion",
         "category": "Photographer",
-        "price": 178429,
-        "rating": 3.8,
-        "city": "Pune",
-        "description": "Professional luxury photographer in Pune. Expert in cinematic wedding portraits and event coverage."
+        "price": 165691,
+        "rating": 4.3,
+        "city": "Hyderabad",
+        "description": "Professional fusion photographer in Hyderabad, expert in cinematic wedding portraits, candid storytelling and full event coverage."
     },
     {
         "id": 71,
-        "name": "Traditional Photographer 71",
+        "name": "The Story Gram Contemporary",
         "category": "Photographer",
-        "price": 102511,
-        "rating": 3.7,
-        "city": "Mumbai",
-        "description": "Professional traditional photographer in Mumbai. Expert in cinematic wedding portraits and event coverage."
+        "price": 60579,
+        "rating": 4.6,
+        "city": "Hyderabad",
+        "description": "Professional contemporary photographer in Hyderabad, expert in cinematic wedding portraits, candid storytelling and full event coverage."
     },
     {
         "id": 72,
-        "name": "Luxury Photographer 72",
+        "name": "Lens & Light Co. Modern",
         "category": "Photographer",
-        "price": 44644,
-        "rating": 4.5,
-        "city": "Bangalore",
-        "description": "Professional luxury photographer in Bangalore. Expert in cinematic wedding portraits and event coverage."
+        "price": 35331,
+        "rating": 4.1,
+        "city": "Hyderabad",
+        "description": "Professional modern photographer in Hyderabad, expert in cinematic wedding portraits, candid storytelling and full event coverage."
     },
     {
         "id": 73,
-        "name": "Traditional Photographer 73",
-        "category": "Photographer",
-        "price": 154767,
+        "name": "Aarav & Blossom Studio Fusion",
+        "category": "Decorator",
+        "price": 161819,
         "rating": 4.4,
-        "city": "Pune",
-        "description": "Professional traditional photographer in Pune. Expert in cinematic wedding portraits and event coverage."
+        "city": "Chennai",
+        "description": "A fusion event decorator in Chennai, specializing in bespoke stage design, mandap styling and signature floral installations."
     },
     {
         "id": 74,
-        "name": "Vintage Decorator 74",
+        "name": "Ivy & Ember Events Outdoor",
         "category": "Decorator",
-        "price": 187946,
-        "rating": 4.2,
-        "city": "Mumbai",
-        "description": "A vintage event decorator in Mumbai, specializing in beautiful stage setups and floral arrangements."
+        "price": 71270,
+        "rating": 4.7,
+        "city": "Chennai",
+        "description": "A outdoor event decorator in Chennai, specializing in bespoke stage design, mandap styling and signature floral installations."
     },
     {
         "id": 75,
-        "name": "Luxury Decorator 75",
+        "name": "Aarav & Blossom Studio Traditional",
         "category": "Decorator",
-        "price": 220485,
-        "rating": 4.6,
-        "city": "Hyderabad",
-        "description": "A luxury event decorator in Hyderabad, specializing in beautiful stage setups and floral arrangements."
+        "price": 51000,
+        "rating": 4.9,
+        "city": "Chennai",
+        "description": "A traditional event decorator in Chennai, specializing in bespoke stage design, mandap styling and signature floral installations."
     },
     {
         "id": 76,
-        "name": "Modern Photographer 76",
-        "category": "Photographer",
-        "price": 53459,
-        "rating": 4.3,
-        "city": "Pune",
-        "description": "Professional modern photographer in Pune. Expert in cinematic wedding portraits and event coverage."
+        "name": "The Tapestry Co. Boho",
+        "category": "Decorator",
+        "price": 185984,
+        "rating": 4.0,
+        "city": "Chennai",
+        "description": "A boho event decorator in Chennai, specializing in bespoke stage design, mandap styling and signature floral installations."
     },
     {
         "id": 77,
-        "name": "Minimalist Photographer 77",
-        "category": "Photographer",
-        "price": 50121,
-        "rating": 3.9,
+        "name": "The Bloom Craft Luxury",
+        "category": "Decorator",
+        "price": 91657,
+        "rating": 4.5,
         "city": "Chennai",
-        "description": "Professional minimalist photographer in Chennai. Expert in cinematic wedding portraits and event coverage."
+        "description": "A luxury event decorator in Chennai, specializing in bespoke stage design, mandap styling and signature floral installations."
     },
     {
         "id": 78,
-        "name": "Traditional Decorator 78",
+        "name": "The Marigold House Contemporary",
         "category": "Decorator",
-        "price": 243592,
+        "price": 179336,
         "rating": 3.9,
         "city": "Chennai",
-        "description": "A traditional event decorator in Chennai, specializing in beautiful stage setups and floral arrangements."
+        "description": "A contemporary event decorator in Chennai, specializing in bespoke stage design, mandap styling and signature floral installations."
     },
     {
         "id": 79,
-        "name": "Traditional Decorator 79",
-        "category": "Decorator",
-        "price": 121539,
-        "rating": 4.9,
+        "name": "Everest Exposures Minimalist",
+        "category": "Photographer",
+        "price": 88358,
+        "rating": 4.4,
         "city": "Chennai",
-        "description": "A traditional event decorator in Chennai, specializing in beautiful stage setups and floral arrangements."
+        "description": "Professional minimalist photographer in Chennai, expert in cinematic wedding portraits, candid storytelling and full event coverage."
     },
     {
         "id": 80,
-        "name": "Traditional Photographer 80",
+        "name": "Lens & Light Co. Traditional",
         "category": "Photographer",
-        "price": 179429,
-        "rating": 3.8,
-        "city": "Delhi",
-        "description": "Professional traditional photographer in Delhi. Expert in cinematic wedding portraits and event coverage."
+        "price": 102361,
+        "rating": 4.5,
+        "city": "Chennai",
+        "description": "Professional traditional photographer in Chennai, expert in cinematic wedding portraits, candid storytelling and full event coverage."
     },
     {
         "id": 81,
-        "name": "Minimalist Decorator 81",
-        "category": "Decorator",
-        "price": 187330,
-        "rating": 4.5,
-        "city": "Mumbai",
-        "description": "A minimalist event decorator in Mumbai, specializing in beautiful stage setups and floral arrangements."
+        "name": "Lens & Light Co. Modern",
+        "category": "Photographer",
+        "price": 54308,
+        "rating": 4.1,
+        "city": "Chennai",
+        "description": "Professional modern photographer in Chennai, expert in cinematic wedding portraits, candid storytelling and full event coverage."
     },
     {
         "id": 82,
-        "name": "Vintage Decorator 82",
-        "category": "Decorator",
-        "price": 208467,
-        "rating": 4.0,
-        "city": "Delhi",
-        "description": "A vintage event decorator in Delhi, specializing in beautiful stage setups and floral arrangements."
+        "name": "The Story Gram Fusion",
+        "category": "Photographer",
+        "price": 139858,
+        "rating": 4.5,
+        "city": "Chennai",
+        "description": "Professional fusion photographer in Chennai, expert in cinematic wedding portraits, candid storytelling and full event coverage."
     },
     {
         "id": 83,
-        "name": "Modern Decorator 83",
-        "category": "Decorator",
-        "price": 243090,
-        "rating": 3.8,
-        "city": "Mumbai",
-        "description": "A modern event decorator in Mumbai, specializing in beautiful stage setups and floral arrangements."
+        "name": "The Aperture Atelier Boho",
+        "category": "Photographer",
+        "price": 39016,
+        "rating": 4.8,
+        "city": "Chennai",
+        "description": "Professional boho photographer in Chennai, expert in cinematic wedding portraits, candid storytelling and full event coverage."
     },
     {
         "id": 84,
-        "name": "Minimalist Decorator 84",
-        "category": "Decorator",
-        "price": 172754,
-        "rating": 4.8,
-        "city": "Mumbai",
-        "description": "A minimalist event decorator in Mumbai, specializing in beautiful stage setups and floral arrangements."
+        "name": "Shutter Stories Studio Vintage",
+        "category": "Photographer",
+        "price": 167585,
+        "rating": 4.3,
+        "city": "Chennai",
+        "description": "Professional vintage photographer in Chennai, expert in cinematic wedding portraits, candid storytelling and full event coverage."
     },
     {
         "id": 85,
-        "name": "Traditional Decorator 85",
+        "name": "Ivy & Ember Events Modern",
         "category": "Decorator",
-        "price": 167312,
-        "rating": 3.9,
-        "city": "Mumbai",
-        "description": "A traditional event decorator in Mumbai, specializing in beautiful stage setups and floral arrangements."
+        "price": 48033,
+        "rating": 4.2,
+        "city": "Pune",
+        "description": "A modern event decorator in Pune, specializing in bespoke stage design, mandap styling and signature floral installations."
     },
     {
         "id": 86,
-        "name": "Traditional Decorator 86",
+        "name": "Ivy & Ember Events Fusion",
         "category": "Decorator",
-        "price": 173095,
-        "rating": 4.3,
-        "city": "Hyderabad",
-        "description": "A traditional event decorator in Hyderabad, specializing in beautiful stage setups and floral arrangements."
+        "price": 104707,
+        "rating": 4.1,
+        "city": "Pune",
+        "description": "A fusion event decorator in Pune, specializing in bespoke stage design, mandap styling and signature floral installations."
     },
     {
         "id": 87,
-        "name": "Minimalist Photographer 87",
-        "category": "Photographer",
-        "price": 69597,
-        "rating": 4.8,
-        "city": "Hyderabad",
-        "description": "Professional minimalist photographer in Hyderabad. Expert in cinematic wedding portraits and event coverage."
+        "name": "Saffron Petals Minimalist",
+        "category": "Decorator",
+        "price": 172401,
+        "rating": 4.3,
+        "city": "Pune",
+        "description": "A minimalist event decorator in Pune, specializing in bespoke stage design, mandap styling and signature floral installations."
     },
     {
         "id": 88,
-        "name": "Vintage Photographer 88",
-        "category": "Photographer",
-        "price": 72308,
+        "name": "Mehr Decor Studio Vintage",
+        "category": "Decorator",
+        "price": 241576,
         "rating": 4.1,
         "city": "Pune",
-        "description": "Professional vintage photographer in Pune. Expert in cinematic wedding portraits and event coverage."
+        "description": "A vintage event decorator in Pune, specializing in bespoke stage design, mandap styling and signature floral installations."
     },
     {
         "id": 89,
-        "name": "Minimalist Decorator 89",
+        "name": "The Pavilion Studio Luxury",
         "category": "Decorator",
-        "price": 133737,
-        "rating": 3.6,
+        "price": 205076,
+        "rating": 4.4,
         "city": "Pune",
-        "description": "A minimalist event decorator in Pune, specializing in beautiful stage setups and floral arrangements."
+        "description": "A luxury event decorator in Pune, specializing in bespoke stage design, mandap styling and signature floral installations."
     },
     {
         "id": 90,
-        "name": "Luxury Decorator 90",
+        "name": "The Tapestry Co. Outdoor",
         "category": "Decorator",
-        "price": 114727,
-        "rating": 4.1,
-        "city": "Chennai",
-        "description": "A luxury event decorator in Chennai, specializing in beautiful stage setups and floral arrangements."
+        "price": 203903,
+        "rating": 4.4,
+        "city": "Pune",
+        "description": "A outdoor event decorator in Pune, specializing in bespoke stage design, mandap styling and signature floral installations."
     },
     {
         "id": 91,
-        "name": "Traditional Photographer 91",
+        "name": "Golden Hour Films Modern",
         "category": "Photographer",
-        "price": 132480,
-        "rating": 4.3,
-        "city": "Bangalore",
-        "description": "Professional traditional photographer in Bangalore. Expert in cinematic wedding portraits and event coverage."
+        "price": 178552,
+        "rating": 4.1,
+        "city": "Pune",
+        "description": "Professional modern photographer in Pune, expert in cinematic wedding portraits, candid storytelling and full event coverage."
     },
     {
         "id": 92,
-        "name": "Modern Decorator 92",
-        "category": "Decorator",
-        "price": 185905,
-        "rating": 4.0,
-        "city": "Bangalore",
-        "description": "A modern event decorator in Bangalore, specializing in beautiful stage setups and floral arrangements."
+        "name": "Lens & Light Co. Luxury",
+        "category": "Photographer",
+        "price": 73371,
+        "rating": 4.6,
+        "city": "Pune",
+        "description": "Professional luxury photographer in Pune, expert in cinematic wedding portraits, candid storytelling and full event coverage."
     },
     {
         "id": 93,
-        "name": "Modern Decorator 93",
-        "category": "Decorator",
-        "price": 119203,
-        "rating": 3.6,
-        "city": "Hyderabad",
-        "description": "A modern event decorator in Hyderabad, specializing in beautiful stage setups and floral arrangements."
+        "name": "The Story Gram Vintage",
+        "category": "Photographer",
+        "price": 89201,
+        "rating": 4.5,
+        "city": "Pune",
+        "description": "Professional vintage photographer in Pune, expert in cinematic wedding portraits, candid storytelling and full event coverage."
     },
     {
         "id": 94,
-        "name": "Modern Decorator 94",
-        "category": "Decorator",
-        "price": 73508,
-        "rating": 4.8,
-        "city": "Chennai",
-        "description": "A modern event decorator in Chennai, specializing in beautiful stage setups and floral arrangements."
+        "name": "Pinhole & Beyond Traditional",
+        "category": "Photographer",
+        "price": 33316,
+        "rating": 4.3,
+        "city": "Pune",
+        "description": "Professional traditional photographer in Pune, expert in cinematic wedding portraits, candid storytelling and full event coverage."
     },
     {
         "id": 95,
-        "name": "Traditional Photographer 95",
+        "name": "Frames By Ananya Royal",
         "category": "Photographer",
-        "price": 164760,
+        "price": 92530,
         "rating": 4.5,
         "city": "Pune",
-        "description": "Professional traditional photographer in Pune. Expert in cinematic wedding portraits and event coverage."
+        "description": "Professional royal photographer in Pune, expert in cinematic wedding portraits, candid storytelling and full event coverage."
     },
     {
         "id": 96,
-        "name": "Minimalist Decorator 96",
-        "category": "Decorator",
-        "price": 212568,
-        "rating": 4.1,
-        "city": "Delhi",
-        "description": "A minimalist event decorator in Delhi, specializing in beautiful stage setups and floral arrangements."
-    },
-    {
-        "id": 97,
-        "name": "Luxury Decorator 97",
-        "category": "Decorator",
-        "price": 145185,
-        "rating": 4.0,
+        "name": "Shutter Stories Studio Contemporary",
+        "category": "Photographer",
+        "price": 54293,
+        "rating": 3.8,
         "city": "Pune",
-        "description": "A luxury event decorator in Pune, specializing in beautiful stage setups and floral arrangements."
-    },
-    {
-        "id": 98,
-        "name": "Luxury Decorator 98",
-        "category": "Decorator",
-        "price": 200489,
-        "rating": 4.1,
-        "city": "Hyderabad",
-        "description": "A luxury event decorator in Hyderabad, specializing in beautiful stage setups and floral arrangements."
-    },
-    {
-        "id": 99,
-        "name": "Luxury Photographer 99",
-        "category": "Photographer",
-        "price": 107100,
-        "rating": 4.5,
-        "city": "Mumbai",
-        "description": "Professional luxury photographer in Mumbai. Expert in cinematic wedding portraits and event coverage."
-    },
-    {
-        "id": 100,
-        "name": "Minimalist Photographer 100",
-        "category": "Photographer",
-        "price": 126343,
-        "rating": 3.6,
-        "city": "Delhi",
-        "description": "Professional minimalist photographer in Delhi. Expert in cinematic wedding portraits and event coverage."
+        "description": "Professional contemporary photographer in Pune, expert in cinematic wedding portraits, candid storytelling and full event coverage."
     }
 ]
