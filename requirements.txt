@@ -1,7 +1,6 @@
 fastapi
 uvicorn
 pydantic
-google-genai
+numpy
 faiss-cpu
-sentence-transformers
 scikit-learn

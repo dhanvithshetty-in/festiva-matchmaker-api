@@ -1,32 +1,35 @@
-import json, os, numpy as np
-from sentence_transformers import SentenceTransformer
+import json, os
+import numpy as np
 import faiss
 
+
 class EmbeddingSearcher:
+    """Vector search over precomputed vendor embeddings (no ML model at runtime).
+
+    Vendor + query embeddings are computed offline (data/precompute_embeddings.py)
+    and loaded from disk, so the API stays fast and lightweight on small instances.
+    """
+
     def __init__(self):
-        self.model = SentenceTransformer('all-MiniLM-L6-v2')
         self.index = None
         self.vendors = []
-        
+        self.query_vector = None
+
     def build_index(self):
         with open("data/vendors.json", "r") as f:
             self.vendors = json.load(f)
-            
-        descriptions = [v["description"] for v in self.vendors]
-        embeddings = self.model.encode(descriptions, convert_to_numpy=True)
-        faiss.normalize_L2(embeddings)
-        
+
+        embeddings = np.load("data/vendor_embeddings.npy")
+        self.query_vector = np.load("data/query_embedding.npy")
+
         self.index = faiss.IndexFlatIP(embeddings.shape[1])
         self.index.add(embeddings)
-        print("[ok] FAISS index built.")
-        
+        print("[ok] FAISS index built from precomputed embeddings.")
+
     def search(self, query: str, city: str, category: str, top_k: int = 10):
-        query_vector = self.model.encode([query], convert_to_numpy=True)
-        faiss.normalize_L2(query_vector)
-        
-        distances, indices = self.index.search(query_vector, len(self.vendors))
+        distances, indices = self.index.search(self.query_vector, len(self.vendors))
         results = []
-        
+
         for score, idx in zip(distances[0], indices[0]):
             vendor = self.vendors[idx]
             if vendor["city"].lower() == city.lower() and vendor["category"].lower() == category.lower():
